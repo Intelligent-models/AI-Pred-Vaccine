@@ -1,0 +1,962 @@
+Id,v024,v025,v012,v501,v106,v137,m15,v701,v705,v190,v157,v158,v159,v169a,v171a,m1,m14,m70,h1a,h2,h4,h6,h8,h9,h9a,h0,h51,h52,h53,h54,h55,h56
+1   8  7,kpk,rural,Young,married,higher,1,Publicsector,secondar,sales,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+1   9  4,kpk,rural,Middle,married,no educa,2,home,secondar,skilled,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+1  10  7,kpk,rural,Middle,married,higher,1,Publicsector,no educa,skilled,poorer,no,no,no,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+1  11  1,kpk,rural,Middle,married,no educa,2,home,no educa,skilled,poorest,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+1  12  2,kpk,rural,Young,married,no educa,2,home,secondar,sales,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+1  21  4,kpk,rural,Young,married,higher,2,Publicsector,secondar,did not,poorer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+1  24  2,kpk,rural,Old,married,no educa,2,home,no educa,did not,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+1  24  3,kpk,rural,Young,married,higher,2,home,secondar,skilled,poorest,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+1  25  2,kpk,rural,Middle,married,primary,1,home,secondar,professi,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+1  27  2,kpk,rural,Young,married,no educa,3,home,secondar,unskille,poorest,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+1  27  5,kpk,rural,Young,married,secondar,3,Publicsector,secondar,unskille,poorest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+1  28  2,kpk,rural,Middle,married,no educa,1,Publicsector,higher,professi,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+2   1  2,kpk,urban,Middle,married,no educa,2,Publicsector,secondar,skilled,middle,no,yes,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+2   8  2,kpk,urban,Middle,married,higher,3,Publicsector,higher,clerical,richer,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+2   9  4,kpk,urban,Middle,married,secondar,1,Publicsector,secondar,skilled,middle,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+2  12  2,kpk,urban,Young,married,secondar,1,Publicsector,primary,sales,middle,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+2  16  3,kpk,urban,Middle,married,secondar,1,Publicsector,higher,unskille,middle,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+2  17  2,kpk,urban,Middle,married,no educa,1,Publicsector,secondar,did not,middle,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+2  28  4,kpk,urban,Young,married,secondar,1,Publicsector,higher,services,middle,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+3   2  1,kpk,rural,Middle,married,no educa,2,Publicsector,secondar,unskille,poorer,no,no,no,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+3   4  1,kpk,rural,Middle,married,no educa,2,PrivateSector,secondar,unskille,poorest,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes
+3   6  1,kpk,rural,Middle,married,no educa,2,PrivateSector,secondar,unskille,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+3   7  2,kpk,rural,Young,married,no educa,2,home,secondar,sales,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+3   8  2,kpk,rural,Middle,married,secondar,4,home,secondar,skilled,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+3   8  9,kpk,rural,Young,married,primary,4,home,secondar,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+3   9  2,kpk,rural,Middle,married,primary,2,home,secondar,unskille,poorer,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+3  11  3,kpk,rural,Young,married,primary,2,PrivateSector,primary,unskille,poorer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+3  12  7,kpk,rural,Middle,married,no educa,2,PrivateSector,secondar,unskille,middle,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+3  16 13,kpk,rural,Middle,married,no educa,4,Publicsector,no educa,did not,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+3  16 21,kpk,rural,Middle,married,no educa,4,Publicsector,higher,professi,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+3  18  2,kpk,rural,Young,married,no educa,1,PrivateSector,secondar,unskille,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+3  22  1,kpk,rural,Middle,married,no educa,2,home,secondar,unskille,middle,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+3  23  2,kpk,rural,Middle,married,no educa,2,Publicsector,primary,unskille,poorest,no,no,no,no,no,no,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+3  24  4,kpk,rural,Young,married,no educa,2,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+4   3  2,kpk,rural,Middle,married,no educa,4,home,secondar,skilled,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+4   5  1,kpk,rural,Young,married,no educa,2,home,secondar,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+4   6  8,kpk,rural,Young,married,no educa,2,home,secondar,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+4   8  4,kpk,rural,Young,married,no educa,1,home,higher,did not,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+4   9  2,kpk,rural,Young,married,no educa,2,home,no educa,skilled,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+4  13  2,kpk,rural,Old,married,no educa,1,home,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+4  15  1,kpk,rural,Young,married,no educa,2,home,no educa,unskille,poorest,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+4  17  2,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+4  18  2,kpk,rural,Old,married,no educa,3,home,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+4  20  2,kpk,rural,Middle,married,no educa,3,home,primary,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+4  24  2,kpk,rural,Young,married,no educa,2,home,primary,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+4  26  2,kpk,rural,Old,married,no educa,2,home,no educa,sales,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+5   2 12,kpk,rural,Young,married,no educa,1,PrivateSector,no educa,unskille,poorer,no,no,no,no,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+5   5  6,kpk,rural,Middle,married,no educa,4,PrivateSector,higher,unskille,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+5   7  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,unskille,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+5  10  2,kpk,rural,Middle,married,no educa,2,Publicsector,no educa,unskille,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+5  15  2,kpk,rural,Young,married,no educa,2,home,secondar,unskille,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+5  18  1,kpk,rural,Middle,married,secondar,2,PrivateSector,higher,unskille,richest,no,no,yes,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+5  19  1,kpk,rural,Middle,married,primary,2,PrivateSector,secondar,unskille,middle,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+5  20  4,kpk,rural,Young,married,primary,2,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+5  28  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,unskille,poorer,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+6   2  2,kpk,rural,Middle,married,no educa,3,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+6   4  2,kpk,rural,Young,married,no educa,2,Publicsector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+6   6  1,kpk,rural,Young,married,no educa,2,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+6   7  4,kpk,rural,Young,married,no educa,2,Publicsector,no educa,did not,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+6  10  2,kpk,rural,Young,married,no educa,2,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+6  12  6,kpk,rural,Young,married,no educa,4,Publicsector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+6  14 11,kpk,rural,Young,married,no educa,4,Publicsector,primary,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+6  14 14,kpk,rural,Young,married,no educa,4,home,secondar,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+6  16  2,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+6  17  2,kpk,rural,Young,married,no educa,3,home,primary,unskille,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+6  21  4,kpk,rural,Young,married,no educa,1,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+7   1  3,kpk,rural,Middle,married,higher,2,home,secondar,sales,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+7   4  3,kpk,rural,Young,married,higher,4,PrivateSector,higher,professi,richest,no,no,no,yes,yes,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+7   4 10,kpk,rural,Young,married,higher,4,Publicsector,higher,professi,richest,no,no,no,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+7  10  2,kpk,rural,Young,married,secondar,2,home,no educa,unskille,richer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+7  13  2,kpk,rural,Middle,married,no educa,1,Publicsector,no educa,did not,poorer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+7  14  2,kpk,rural,Middle,married,higher,1,PrivateSector,higher,professi,middle,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+7  17  2,kpk,rural,Middle,married,no educa,3,Publicsector,secondar,did not,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+7  18  2,kpk,rural,Young,married,secondar,3,PrivateSector,higher,professi,middle,no,no,no,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+7  19  2,kpk,rural,Young,married,secondar,1,Publicsector,higher,skilled,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+7  25  4,kpk,rural,Young,married,higher,1,PrivateSector,higher,professi,richer,no,no,no,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+7  27  2,kpk,rural,Young,married,secondar,2,home,higher,professi,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+7  28  4,kpk,rural,Young,married,secondar,1,Publicsector,secondar,unskille,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+8   4  3,kpk,rural,Middle,married,primary,2,PrivateSector,no educa,agricult,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+8   5  2,kpk,rural,Middle,married,no educa,1,PrivateSector,primary,unskille,middle,no,yes,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+8  11  4,kpk,rural,Young,married,primary,1,PrivateSector,primary,unskille,richer,no,no,no,no,no,yes,yes,yes,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+8  12  1,kpk,rural,Middle,married,no educa,2,PrivateSector,secondar,unskille,poorer,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+8  14  2,kpk,rural,Middle,married,no educa,1,PrivateSector,no educa,skilled,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+8  15  8,kpk,rural,Young,married,no educa,4,PrivateSector,primary,skilled,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+8  18  1,kpk,rural,Middle,married,no educa,1,PrivateSector,secondar,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+8  22  2,kpk,rural,Young,married,primary,4,PrivateSector,primary,did not,middle,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+8  22  5,kpk,rural,Old,married,no educa,4,PrivateSector,no educa,unskille,middle,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+8  28  1,kpk,rural,Middle,married,no educa,1,PrivateSector,secondar,unskille,poorest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+9   2  2,kpk,rural,Young,married,primary,1,PrivateSector,secondar,unskille,richest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+9   9  2,kpk,rural,Middle,married,no educa,1,Publicsector,no educa,unskille,poorer,no,no,no,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+9  11  4,kpk,rural,Young,married,higher,2,PrivateSector,higher,professi,richest,no,no,yes,yes,yes,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+9  13  3,kpk,rural,Middle,married,secondar,7,Publicsector,primary,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+9  13  8,kpk,rural,Young,married,secondar,7,Publicsector,primary,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+9  13 13,kpk,rural,Young,married,no educa,7,PrivateSector,primary,unskille,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+9  21  4,kpk,rural,Young,married,no educa,1,PrivateSector,higher,did not,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+9  22  7,kpk,rural,Young,married,secondar,2,PrivateSector,secondar,unskille,poorer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+9  24  2,kpk,rural,Young,married,no educa,2,PrivateSector,primary,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+10   3  2,kpk,urban,Young,married,primary,2,PrivateSector,secondar,skilled,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+10  10  2,kpk,urban,Middle,married,secondar,2,Publicsector,no educa,professi,richer,no,no,yes,no,yes,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+10  11  2,kpk,urban,Young,married,primary,1,PrivateSector,primary,unskille,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+10  13  4,kpk,urban,Young,married,no educa,1,Publicsector,secondar,skilled,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+10  14  7,kpk,urban,Young,married,no educa,1,Publicsector,secondar,skilled,richest,no,no,yes,no,no,yes,yes,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+10  24  9,kpk,urban,Young,married,primary,4,Publicsector,higher,professi,richer,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+10  25  9,kpk,urban,Young,married,secondar,2,Publicsector,higher,professi,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+10  26  2,kpk,urban,Middle,married,no educa,2,PrivateSector,secondar,did not,middle,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+10  28  1,kpk,urban,Middle,married,secondar,2,home,primary,sales,middle,no,no,yes,yes,yes,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+11   7  2,kpk,urban,Middle,married,primary,1,Publicsector,no educa,unskille,poorer,no,no,no,yes,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+11  11  5,kpk,urban,Young,married,no educa,2,Publicsector,secondar,unskille,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+11  12  2,kpk,urban,Young,married,no educa,3,home,secondar,skilled,middle,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,no
+11  15  3,kpk,urban,Young,married,no educa,2,home,secondar,skilled,richer,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+11  17  2,kpk,urban,Middle,married,higher,3,Publicsector,no educa,professi,middle,yes,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+11  21  2,kpk,urban,Middle,married,no educa,1,Publicsector,primary,unskille,richer,no,no,yes,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+11  24  4,kpk,urban,Middle,married,secondar,4,Publicsector,secondar,unskille,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+11  25  2,kpk,urban,Old,married,higher,4,Publicsector,higher,professi,richer,no,no,yes,yes,yes,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+11  26  2,kpk,urban,Young,married,secondar,4,Publicsector,secondar,unskille,richer,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+12   1  2,kpk,urban,Old,married,no educa,2,Publicsector,secondar,unskille,middle,no,no,no,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+12   2  2,kpk,urban,Middle,married,primary,1,Publicsector,higher,professi,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+12   5  7,kpk,urban,Young,married,no educa,5,Publicsector,secondar,professi,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+12  18  2,kpk,urban,Old,married,no educa,1,Publicsector,primary,sales,richer,no,yes,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+12  20  8,kpk,urban,Young,married,no educa,2,Publicsector,secondar,unskille,richer,no,no,yes,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+12  21  2,kpk,urban,Young,married,no educa,1,Publicsector,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+12  23  2,kpk,urban,Middle,married,secondar,3,Publicsector,higher,sales,richest,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+12  23 12,kpk,urban,Young,married,secondar,3,Publicsector,secondar,unskille,richest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+13   1  3,kpk,urban,Young,married,no educa,2,Publicsector,secondar,unskille,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+13   3  2,kpk,urban,Middle,married,no educa,2,Publicsector,no educa,unskille,poorest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+13   4  3,kpk,urban,Middle,married,no educa,2,PrivateSector,higher,unskille,poorest,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+13   4  8,kpk,urban,Young,married,no educa,2,PrivateSector,secondar,skilled,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+13   5 16,kpk,urban,Middle,married,no educa,5,home,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+13   9  6,kpk,urban,Middle,married,no educa,3,PrivateSector,primary,unskille,poorest,no,no,no,yes,no,yes,yes,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+13   9 12,kpk,urban,Middle,married,no educa,3,PrivateSector,no educa,unskille,poorest,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+13  10  2,kpk,urban,Middle,married,no educa,3,PrivateSector,no educa,unskille,middle,no,no,yes,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+13  11 11,kpk,urban,Young,married,primary,3,PrivateSector,secondar,unskille,poorer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+13  13  4,kpk,urban,Middle,married,no educa,2,PrivateSector,primary,unskille,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+13  14  2,kpk,urban,Young,married,no educa,2,PrivateSector,primary,unskille,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+13  16  2,kpk,urban,Middle,married,no educa,1,PrivateSector,no educa,services,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+13  17  2,kpk,urban,Middle,married,no educa,2,PrivateSector,primary,skilled,middle,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+13  18 10,kpk,urban,Young,married,secondar,3,Publicsector,secondar,unskille,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+13  19  4,kpk,urban,Young,married,primary,3,PrivateSector,secondar,sales,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+13  20  4,kpk,urban,Middle,married,no educa,5,home,no educa,unskille,poorer,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+13  20 16,kpk,urban,Young,married,no educa,5,Publicsector,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+13  25  4,kpk,urban,Middle,married,no educa,3,PrivateSector,secondar,skilled,richer,no,no,no,yes,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+13  25 10,kpk,urban,Middle,married,no educa,3,PrivateSector,higher,unskille,richer,no,no,no,no,no,no,yes,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+13  28  2,kpk,urban,Old,married,no educa,1,Publicsector,no educa,unskille,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+14   2  1,kpk,rural,Middle,married,no educa,1,PrivateSector,no educa,unskille,middle,no,no,yes,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+14   6  4,kpk,rural,Young,married,no educa,2,PrivateSector,higher,sales,middle,no,no,no,no,no,yes,no,no,Hasdocuments,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes
+14   7  4,kpk,rural,Young,married,no educa,2,PrivateSector,secondar,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+14   7  6,kpk,rural,Young,married,primary,2,PrivateSector,secondar,unskille,poorer,no,no,no,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+14  10  2,kpk,rural,Young,married,primary,1,Publicsector,higher,professi,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+14  12  1,kpk,rural,Middle,married,no educa,1,home,no educa,unskille,middle,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+14  14  2,kpk,rural,Young,married,no educa,2,home,primary,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+14  17  3,kpk,rural,Middle,married,secondar,2,home,no educa,unskille,poorer,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+14  18  2,kpk,rural,Middle,married,no educa,1,PrivateSector,no educa,unskille,middle,no,no,no,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+14  19  6,kpk,rural,Young,married,no educa,4,PrivateSector,no educa,skilled,middle,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+14  20  4,kpk,rural,Middle,married,no educa,2,home,secondar,unskille,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+14  22  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,unskille,poorer,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+14  23  2,kpk,rural,Young,married,no educa,2,PrivateSector,no educa,skilled,poorer,no,no,no,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+14  25  2,kpk,rural,Middle,married,no educa,1,PrivateSector,secondar,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+15   3  3,kpk,rural,Old,married,no educa,6,Publicsector,higher,unskille,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+15   3 12,kpk,rural,Middle,married,no educa,6,Publicsector,higher,unskille,middle,no,yes,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+15   3 18,kpk,rural,Young,married,higher,6,Publicsector,higher,professi,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+15   6 27,kpk,rural,Young,married,primary,6,PrivateSector,secondar,skilled,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+15  11  2,kpk,rural,Old,married,no educa,1,Publicsector,secondar,services,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+15  13  2,kpk,rural,Old,married,no educa,1,PrivateSector,primary,unskille,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+15  15  9,kpk,rural,Middle,married,higher,6,PrivateSector,higher,professi,richest,no,yes,no,yes,yes,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+15  15 14,kpk,rural,Middle,married,no educa,6,PrivateSector,higher,unskille,richest,no,yes,yes,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+15  15 17,kpk,rural,Young,married,primary,6,PrivateSector,higher,did not,richest,no,no,yes,no,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+15  15 22,kpk,rural,Young,married,no educa,6,PrivateSector,higher,did not,richest,no,no,yes,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+15  23  2,kpk,rural,Middle,married,no educa,4,home,no educa,agricult,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+15  23  9,kpk,rural,Middle,married,no educa,4,home,secondar,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+15  25  2,kpk,rural,Old,married,no educa,3,Publicsector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+15  27  3,kpk,rural,Young,married,no educa,2,home,secondar,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+15  27  7,kpk,rural,Young,married,no educa,2,PrivateSector,primary,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+16   1  4,kpk,rural,Young,married,secondar,1,Publicsector,higher,professi,poorer,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+16   2  1,kpk,rural,Young,married,primary,4,PrivateSector,secondar,unskille,poorest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+16   4 10,kpk,rural,Young,married,no educa,2,PrivateSector,higher,professi,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+16   6  1,kpk,rural,Middle,married,no educa,1,home,secondar,unskille,poorest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+16   9  4,kpk,rural,Young,married,secondar,1,Publicsector,secondar,unskille,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+16  13  4,kpk,rural,Young,married,no educa,2,home,higher,professi,middle,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+16  14  8,kpk,rural,Young,married,secondar,3,PrivateSector,secondar,unskille,middle,yes,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+16  21  4,kpk,rural,Middle,married,primary,3,PrivateSector,secondar,unskille,poorer,no,yes,no,no,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+16  21  7,kpk,rural,Young,married,secondar,3,PrivateSector,secondar,unskille,poorer,no,yes,no,yes,yes,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+16  23  4,kpk,rural,Young,married,primary,1,PrivateSector,secondar,unskille,poorer,no,no,no,yes,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+16  25  2,kpk,rural,Middle,married,no educa,2,home,secondar,sales,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+16  27  4,kpk,rural,Young,married,no educa,3,PrivateSector,primary,unskille,poorer,no,no,yes,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+17   2  4,kpk,urban,Young,married,higher,2,PrivateSector,higher,sales,richer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+17   3  2,kpk,urban,Young,married,secondar,2,Publicsector,higher,did not,richest,no,no,yes,yes,yes,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+17   3  4,kpk,urban,Young,married,secondar,2,Publicsector,higher,professi,richest,no,no,yes,yes,yes,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+17   4  9,kpk,urban,Young,married,secondar,3,PrivateSector,higher,clerical,richest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+17   6  6,kpk,urban,Middle,married,primary,3,Publicsector,secondar,unskille,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+17   6 12,kpk,urban,Middle,married,secondar,3,Publicsector,higher,did not,richer,no,no,yes,yes,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+17   8  4,kpk,urban,Young,married,primary,3,PrivateSector,higher,professi,richest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+17   8  8,kpk,urban,Young,married,higher,3,Publicsector,secondar,sales,richest,no,no,no,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+17  10  4,kpk,urban,Young,married,secondar,2,Publicsector,higher,unskille,richer,no,no,yes,no,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+17  11  4,kpk,urban,Middle,married,primary,2,home,secondar,sales,middle,yes,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+17  13  8,kpk,urban,Middle,married,secondar,3,PrivateSector,secondar,sales,richest,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+17  13 13,kpk,urban,Young,married,secondar,3,PrivateSector,secondar,sales,richest,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+17  14  4,kpk,urban,Young,married,no educa,3,PrivateSector,higher,did not,richest,no,no,no,yes,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+17  22  9,kpk,urban,Young,married,primary,5,Publicsector,no educa,unskille,richer,no,no,yes,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+17  23 10,kpk,urban,Middle,married,higher,3,PrivateSector,higher,professi,richest,no,no,yes,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+17  25  4,kpk,urban,Young,married,primary,1,Publicsector,no educa,sales,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+17  26  2,kpk,urban,Middle,married,secondar,2,PrivateSector,secondar,skilled,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+22   7  2,kpk,rural,Middle,married,no educa,1,home,no educa,skilled,poorest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+22   9  2,kpk,rural,Young,married,primary,2,home,secondar,skilled,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+22  12  2,kpk,rural,Middle,married,primary,2,Publicsector,no educa,unskille,poorer,no,no,no,yes,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+22  13  2,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+22  16  3,kpk,rural,Middle,married,no educa,1,home,primary,services,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+22  17  5,kpk,rural,Young,married,no educa,1,home,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+22  18  9,kpk,rural,Young,married,secondar,2,Publicsector,secondar,unskille,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+22  20  4,kpk,rural,Middle,married,no educa,3,home,primary,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+23   1  4,kpk,rural,Young,married,higher,2,home,primary,unskille,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+23   3  4,kpk,rural,Middle,married,higher,2,PrivateSector,higher,sales,richest,no,no,yes,no,yes,no,no,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+23   3 10,kpk,rural,Young,married,secondar,2,PrivateSector,higher,sales,richest,no,no,yes,no,yes,no,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,no,no
+23   4  5,kpk,rural,Middle,married,higher,1,PrivateSector,higher,skilled,richest,no,no,yes,yes,yes,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+23   8  7,kpk,rural,Young,married,secondar,1,PrivateSector,higher,clerical,richer,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+23  10  3,kpk,rural,Young,married,no educa,2,Publicsector,primary,skilled,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+23  10  6,kpk,rural,Middle,married,no educa,2,Publicsector,secondar,skilled,richer,no,no,no,no,no,yes,yes,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+23  11  3,kpk,rural,Young,married,higher,2,home,secondar,services,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+23  13  4,kpk,rural,Middle,married,primary,1,home,secondar,agricult,richer,no,no,yes,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+23  14  2,kpk,rural,Middle,married,no educa,2,home,primary,services,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+23  15  2,kpk,rural,Young,married,secondar,2,home,higher,unskille,middle,no,yes,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+23  20  2,kpk,rural,Middle,married,primary,2,home,higher,professi,richer,no,no,yes,yes,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+23  21  2,kpk,rural,Young,married,primary,2,home,secondar,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+23  25  4,kpk,rural,Young,married,secondar,1,PrivateSector,secondar,skilled,middle,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+23  27  2,kpk,rural,Middle,married,no educa,2,home,no educa,sales,poorest,no,yes,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+24   2  2,kpk,urban,Middle,married,primary,2,home,no educa,skilled,middle,yes,no,no,yes,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+24   4  7,kpk,urban,Middle,married,higher,1,PrivateSector,higher,professi,richest,no,no,no,yes,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+24   7  2,kpk,urban,Old,married,no educa,2,home,primary,agricult,middle,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+24   8  2,kpk,urban,Middle,married,primary,2,home,secondar,skilled,middle,no,no,no,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+24  11  2,kpk,urban,Young,married,higher,1,PrivateSector,secondar,sales,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+24  19  8,kpk,urban,Middle,married,higher,3,PrivateSector,higher,sales,richest,no,no,yes,yes,yes,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+24  20  1,kpk,urban,Old,married,higher,2,PrivateSector,higher,sales,richest,no,no,no,yes,yes,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+24  24  2,kpk,urban,Middle,married,primary,2,home,secondar,sales,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+25   5  2,kpk,rural,Young,married,primary,2,PrivateSector,secondar,skilled,poorer,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+25   6  1,kpk,rural,Young,married,secondar,2,PrivateSector,higher,professi,richest,no,no,no,yes,yes,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+25   7 12,kpk,rural,Young,married,no educa,2,PrivateSector,secondar,skilled,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+25   9  2,kpk,rural,Middle,married,no educa,2,PrivateSector,higher,professi,richest,no,no,no,yes,yes,yes,no,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+25  10  2,kpk,rural,Middle,married,no educa,2,Publicsector,no educa,skilled,poorer,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes
+25  15  3,kpk,rural,Young,married,no educa,2,Publicsector,secondar,skilled,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+25  16  4,kpk,rural,Young,married,secondar,2,PrivateSector,higher,sales,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+25  17  7,kpk,rural,Young,married,no educa,1,Publicsector,secondar,unskille,poorer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+25  21  4,kpk,rural,Young,married,primary,1,PrivateSector,secondar,unskille,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+25  23  2,kpk,rural,Young,married,no educa,3,Publicsector,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+25  27  4,kpk,rural,Young,married,no educa,1,Publicsector,secondar,skilled,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+26   1  3,kpk,rural,Young,married,higher,2,PrivateSector,higher,professi,middle,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+26   4  2,kpk,rural,Middle,married,secondar,1,Publicsector,secondar,skilled,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+26   7  2,kpk,rural,Middle,married,secondar,1,Publicsector,primary,unskille,poorer,no,no,yes,yes,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+26  21  2,kpk,rural,Young,married,secondar,3,Publicsector,secondar,skilled,poorer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+26  23  4,kpk,rural,Young,married,secondar,2,Publicsector,secondar,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+27   1  2,kpk,rural,Middle,married,no educa,2,Publicsector,no educa,unskille,poorest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+27   2  2,kpk,rural,Middle,married,secondar,1,PrivateSector,no educa,professi,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+27   5  7,kpk,rural,Middle,married,secondar,0,PrivateSector,higher,sales,middle,yes,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+27  13  5,kpk,rural,Young,married,no educa,3,Publicsector,secondar,sales,richer,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+27  17  3,kpk,rural,Middle,married,primary,2,Publicsector,secondar,services,poorer,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+27  24  1,kpk,rural,Old,married,no educa,2,home,secondar,services,poorer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+27  25  1,kpk,rural,Young,married,no educa,1,PrivateSector,secondar,services,poorer,no,no,no,yes,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+28   2  2,kpk,urban,Middle,married,higher,1,Publicsector,secondar,skilled,richer,yes,no,no,yes,no,no,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+28   5  7,kpk,urban,Middle,married,higher,2,PrivateSector,higher,clerical,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+28   6 13,kpk,urban,Young,married,higher,5,Publicsector,higher,skilled,richest,no,no,yes,yes,yes,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+28  12  2,kpk,urban,Middle,married,no educa,1,Publicsector,higher,services,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+28  13  2,kpk,urban,Middle,married,secondar,2,Publicsector,higher,professi,richer,no,yes,yes,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+28  19  4,kpk,urban,Young,married,secondar,2,home,secondar,sales,richest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+28  28  2,kpk,urban,Middle,married,no educa,2,home,secondar,unskille,middle,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+29   3  2,kpk,urban,Young,married,higher,3,PrivateSector,secondar,skilled,richer,no,no,no,yes,yes,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+29   5  2,kpk,urban,Middle,married,higher,2,PrivateSector,higher,unskille,richest,yes,no,yes,yes,yes,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+29   8  8,kpk,urban,Young,married,higher,2,PrivateSector,secondar,sales,richest,no,no,yes,yes,yes,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+29  11 14,kpk,urban,Young,married,secondar,2,PrivateSector,higher,sales,richest,no,no,no,yes,yes,yes,yes,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+29  16  2,kpk,urban,Middle,married,secondar,1,Publicsector,secondar,sales,middle,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+30   1 10,kpk,rural,Middle,married,secondar,1,PrivateSector,primary,unskille,richest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+30   7  2,kpk,rural,Middle,married,higher,2,PrivateSector,higher,skilled,richest,no,no,yes,no,yes,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+30   9  2,kpk,rural,Middle,married,secondar,2,home,higher,skilled,middle,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+30  10  3,kpk,rural,Middle,married,secondar,3,Publicsector,secondar,services,richer,no,no,yes,yes,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+30  14  1,kpk,rural,Old,married,no educa,2,home,secondar,skilled,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+30  19  4,kpk,rural,Middle,married,secondar,2,home,secondar,services,richer,no,no,yes,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+30  23  2,kpk,rural,Middle,married,higher,1,PrivateSector,higher,unskille,richest,no,no,yes,yes,yes,yes,yes,no,Nodocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+30  26  6,kpk,rural,Middle,married,no educa,6,PrivateSector,no educa,skilled,middle,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+30  26 12,kpk,rural,Middle,married,no educa,6,home,no educa,sales,middle,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+30  26 20,kpk,rural,Young,married,no educa,6,Publicsector,no educa,sales,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+30  27  2,kpk,rural,Middle,married,secondar,4,home,higher,professi,richest,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+30  27 20,kpk,rural,Middle,widowed,no educa,4,home,secondar,unskille,richest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+31   1  2,kpk,rural,Middle,married,no educa,2,home,higher,services,middle,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+31   2  7,kpk,rural,Young,married,primary,3,Publicsector,higher,agricult,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+31   4  5,kpk,rural,Young,married,no educa,2,Publicsector,secondar,unskille,poorest,no,no,no,no,no,yes,yes,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+31   7  2,kpk,rural,Young,married,no educa,1,Publicsector,no educa,services,poorer,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+31   8  6,kpk,rural,Young,married,secondar,2,Publicsector,secondar,services,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+31   8 10,kpk,rural,Young,married,no educa,2,Publicsector,secondar,unskille,middle,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+31   9  2,kpk,rural,Young,married,primary,2,Publicsector,primary,unskille,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+31  13  2,kpk,rural,Middle,married,no educa,1,Publicsector,secondar,skilled,richer,no,no,no,no,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+31  16  2,kpk,rural,Middle,married,no educa,1,Publicsector,primary,unskille,poorer,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+31  19  4,kpk,rural,Middle,married,primary,1,home,secondar,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+31  20  2,kpk,rural,Young,married,no educa,1,home,no educa,unskille,poorest,no,no,no,no,no,no,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+31  21  4,kpk,rural,Middle,married,primary,3,home,no educa,services,middle,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+31  22  4,kpk,rural,Young,married,primary,2,Publicsector,secondar,skilled,poorer,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+31  24  5,kpk,rural,Young,married,primary,2,home,no educa,services,middle,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+32   7  2,kpk,urban,Middle,married,secondar,1,Publicsector,higher,sales,richest,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+32  12  2,kpk,urban,Young,married,secondar,2,PrivateSector,secondar,sales,richer,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+32  14  2,kpk,urban,Middle,married,no educa,2,Publicsector,secondar,skilled,richer,no,no,yes,yes,no,no,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+32  15  2,kpk,urban,Middle,married,secondar,1,PrivateSector,secondar,skilled,richer,no,no,yes,yes,yes,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+32  16  2,kpk,urban,Middle,married,higher,2,PrivateSector,higher,professi,richest,yes,no,yes,yes,yes,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+32  17  2,kpk,urban,Middle,married,secondar,2,Publicsector,higher,sales,richest,no,no,yes,yes,yes,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+32  19  2,kpk,urban,Middle,married,higher,1,PrivateSector,secondar,sales,richest,no,no,yes,yes,yes,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+32  20  2,kpk,urban,Middle,married,higher,2,PrivateSector,higher,sales,richest,no,no,yes,yes,yes,no,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+32  23  6,kpk,urban,Young,married,secondar,2,home,secondar,sales,richest,yes,no,yes,yes,yes,yes,no,yes,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+33   1  4,kpk,rural,Young,married,primary,3,PrivateSector,secondar,professi,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33   1  6,kpk,rural,Middle,married,no educa,3,PrivateSector,secondar,skilled,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33   2  8,kpk,rural,Old,married,no educa,4,home,primary,skilled,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33   2 12,kpk,rural,Middle,married,no educa,4,PrivateSector,primary,skilled,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33   3  2,kpk,rural,Middle,married,no educa,2,PrivateSector,secondar,sales,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33   5  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33   7  2,kpk,rural,Young,married,no educa,6,PrivateSector,no educa,skilled,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33   7 11,kpk,rural,Young,married,no educa,6,PrivateSector,secondar,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33   8  3,kpk,rural,Young,married,no educa,1,Publicsector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33   9  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,skilled,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33  11  4,kpk,rural,Young,married,no educa,2,PrivateSector,secondar,professi,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33  12  3,kpk,rural,Middle,married,no educa,1,PrivateSector,primary,skilled,poorest,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33  14  9,kpk,rural,Young,married,no educa,3,home,no educa,services,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33  18  7,kpk,rural,Young,married,no educa,2,PrivateSector,primary,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33  21  4,kpk,rural,Middle,married,no educa,1,Publicsector,primary,services,poorest,no,no,no,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+33  26  5,kpk,rural,Young,married,no educa,1,PrivateSector,higher,unskille,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,no,yes,yes,n0,yes,no,no
+33  28  1,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,skilled,poorest,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+34   1  1,kpk,rural,Young,married,primary,2,PrivateSector,secondar,unskille,poorer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+34   9  3,kpk,rural,Young,married,primary,1,Publicsector,secondar,professi,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+34  12  5,kpk,rural,Young,married,no educa,2,PrivateSector,secondar,professi,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+34  14  5,kpk,rural,Young,married,secondar,3,home,secondar,sales,richer,no,no,yes,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+34  16  2,kpk,rural,Young,married,secondar,1,home,higher,services,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+34  23  3,kpk,rural,Young,married,no educa,4,home,secondar,services,poorer,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+34  23  7,kpk,rural,Young,married,secondar,4,home,secondar,professi,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+35   7  1,kpk,rural,Middle,married,primary,2,home,secondar,unskille,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+35  12  2,kpk,rural,Middle,married,no educa,3,home,no educa,agricult,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+35  17  3,kpk,rural,Young,married,secondar,4,PrivateSector,secondar,skilled,middle,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+35  19  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,services,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+35  22  2,kpk,rural,Middle,married,higher,1,PrivateSector,higher,professi,middle,no,no,no,yes,yes,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+35  28  2,kpk,rural,Old,married,no educa,2,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+36   1  2,kpk,rural,Old,married,no educa,1,PrivateSector,no educa,did not,poorest,no,yes,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+36   2  4,kpk,rural,Young,married,primary,2,home,secondar,unskille,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+36   9  2,kpk,rural,Young,married,no educa,3,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+36  11  2,kpk,rural,Old,married,no educa,1,Publicsector,secondar,sales,poorer,no,no,no,no,no,no,no,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+36  13  2,kpk,rural,Old,married,no educa,2,PrivateSector,no educa,skilled,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+36  15  2,kpk,rural,Middle,married,no educa,1,home,no educa,skilled,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+36  21  2,kpk,rural,Young,married,no educa,1,PrivateSector,no educa,skilled,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+36  23  2,kpk,rural,Young,married,no educa,2,home,secondar,skilled,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+37   8  4,kpk,urban,Young,married,secondar,2,home,secondar,agricult,richest,no,no,yes,no,no,no,no,yes,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+37  15  2,kpk,urban,Middle,married,higher,1,PrivateSector,secondar,services,middle,yes,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+37  18  4,kpk,urban,Young,married,higher,1,PrivateSector,secondar,skilled,richest,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+37  20  3,kpk,urban,Young,married,higher,1,PrivateSector,secondar,professi,richer,yes,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+37  22  2,kpk,urban,Middle,married,secondar,6,PrivateSector,secondar,agricult,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+37  22  7,kpk,urban,Young,married,no educa,6,PrivateSector,secondar,skilled,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+37  22 10,kpk,urban,Young,married,secondar,6,Publicsector,primary,skilled,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+38   2  4,kpk,urban,Young,married,higher,2,home,higher,professi,richer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+38   7  4,kpk,urban,Young,married,higher,2,PrivateSector,secondar,professi,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+38  16  2,kpk,urban,Young,married,primary,2,PrivateSector,no educa,unskille,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+38  21  9,kpk,urban,Young,married,primary,4,PrivateSector,higher,skilled,richest,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+38  21 13,kpk,urban,Young,married,higher,4,PrivateSector,higher,professi,richest,yes,no,yes,yes,yes,yes,yes,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+38  23  2,kpk,urban,Young,married,no educa,2,PrivateSector,secondar,services,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+38  26  2,kpk,urban,Middle,married,no educa,2,home,secondar,unskille,middle,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+39   2  6,kpk,urban,Young,married,no educa,2,PrivateSector,higher,skilled,richer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,no,no,n0,no,no,no
+39   5  4,kpk,urban,Young,married,primary,1,PrivateSector,higher,skilled,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes
+39   6  2,kpk,urban,Middle,married,no educa,2,Publicsector,primary,services,poorer,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+39   9  2,kpk,urban,Young,married,secondar,1,PrivateSector,higher,professi,richest,no,no,yes,yes,yes,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+39  10  4,kpk,urban,Young,married,secondar,3,Publicsector,secondar,skilled,richer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+39  11  4,kpk,urban,Young,married,secondar,2,PrivateSector,higher,unskille,richer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+39  12  2,kpk,urban,Middle,married,no educa,3,home,no educa,unskille,poorer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+39  17  4,kpk,urban,Young,married,higher,6,PrivateSector,higher,unskille,richest,no,no,no,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+39  17 13,kpk,urban,Young,married,higher,6,PrivateSector,secondar,skilled,richest,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+39  25  2,kpk,urban,Old,married,higher,2,PrivateSector,higher,professi,richer,no,no,yes,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+39  27  4,kpk,urban,Young,married,higher,2,PrivateSector,higher,professi,richest,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+40   1  3,kpk,rural,Young,married,no educa,2,home,no educa,unskille,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+40   2 10,kpk,rural,Young,married,no educa,3,home,secondar,unskille,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+40   4  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,did not,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+40   6  2,kpk,rural,Middle,married,secondar,3,home,higher,professi,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+40   9  1,kpk,rural,Middle,married,no educa,1,home,no educa,agricult,poorer,no,no,no,yes,yes,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,no,no
+40  11  3,kpk,rural,Old,married,no educa,1,PrivateSector,no educa,agricult,poorer,no,no,no,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+40  12  4,kpk,rural,Middle,married,secondar,2,home,secondar,skilled,poorer,no,no,no,no,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+40  12  8,kpk,rural,Middle,married,no educa,2,PrivateSector,secondar,skilled,poorer,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+40  13  2,kpk,rural,Middle,married,no educa,1,PrivateSector,no educa,agricult,middle,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,no,no,no,n0,no,no,no
+40  14  2,kpk,rural,Young,married,secondar,1,PrivateSector,higher,professi,richest,no,no,no,yes,yes,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+40  28  9,kpk,rural,Young,married,secondar,3,home,higher,unskille,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,no,no,no,n0,yes,no,no
+41   1  1,kpk,rural,Young,married,secondar,2,home,higher,skilled,richer,no,no,no,yes,yes,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+41   2  7,kpk,rural,Young,married,primary,3,home,secondar,unskille,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,n0,no,no,no
+41   6  3,kpk,rural,Young,married,primary,2,PrivateSector,higher,professi,richer,no,no,yes,yes,yes,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+41   6  6,kpk,rural,Middle,married,higher,2,PrivateSector,higher,professi,richer,yes,no,yes,yes,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+41   8  4,kpk,rural,Middle,married,no educa,4,Publicsector,secondar,skilled,middle,no,no,no,no,no,no,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+41   8  8,kpk,rural,Middle,married,no educa,4,PrivateSector,higher,agricult,middle,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,no,no,no,n0,no,no,no
+41  10  2,kpk,rural,Young,married,no educa,1,PrivateSector,no educa,agricult,poorer,no,yes,no,yes,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+41  12  4,kpk,rural,Young,married,primary,2,PrivateSector,secondar,professi,middle,yes,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,no,no,no,n0,no,no,no
+41  12  8,kpk,rural,Young,married,primary,2,PrivateSector,higher,skilled,middle,yes,no,no,yes,yes,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+41  13  3,kpk,rural,Young,married,no educa,9,PrivateSector,higher,services,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,no,no,no,n0,no,no,no
+41  13  7,kpk,rural,Young,married,higher,9,Publicsector,secondar,professi,middle,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,no,no,no,n0,no,no,no
+41  13 12,kpk,rural,Young,married,higher,9,Publicsector,higher,professi,middle,no,no,no,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,no,no,n0,no,no,no
+41  15  3,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+41  16  5,kpk,rural,Young,married,secondar,2,home,higher,agricult,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+41  17  2,kpk,rural,Middle,married,no educa,2,home,no educa,sales,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes
+41  18  4,kpk,rural,Young,married,primary,4,home,primary,agricult,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+41  19  3,kpk,rural,Young,married,primary,8,home,higher,professi,middle,no,yes,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+41  19 12,kpk,rural,Young,married,no educa,8,home,higher,clerical,middle,no,yes,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+41  23  2,kpk,rural,Old,married,no educa,1,Publicsector,no educa,agricult,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,yes,no,yes,yes,yes,n0,yes,yes,no
+41  25  2,kpk,rural,Young,married,secondar,4,Publicsector,higher,did not,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,no,no,no,n0,no,no,no
+41  28  2,kpk,rural,Middle,married,secondar,3,PrivateSector,higher,professi,middle,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+42   1  2,kpk,urban,Young,married,secondar,2,PrivateSector,higher,professi,richer,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+42   2  2,kpk,urban,Young,married,no educa,1,Publicsector,no educa,skilled,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+42   7 10,kpk,urban,Young,married,secondar,2,home,secondar,services,middle,no,no,no,yes,no,no,no,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+42  10  2,kpk,urban,Old,married,no educa,1,home,primary,skilled,poorer,no,yes,yes,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+42  12  2,kpk,urban,Middle,married,secondar,2,home,secondar,skilled,richest,yes,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,yes
+42  17  2,kpk,urban,Young,married,no educa,3,home,no educa,unskille,middle,no,yes,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+42  17  6,kpk,urban,Young,married,no educa,3,PrivateSector,secondar,services,middle,no,yes,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+43   4  4,kpk,urban,Middle,married,secondar,2,Publicsector,primary,unskille,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+43   6  2,kpk,urban,Middle,married,no educa,2,home,secondar,unskille,middle,no,no,yes,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+43  11  4,kpk,urban,Middle,married,higher,2,Publicsector,higher,professi,richer,yes,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+43  14  3,kpk,urban,Middle,married,higher,1,PrivateSector,higher,sales,richest,no,yes,yes,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+43  16  1,kpk,urban,Middle,married,no educa,1,PrivateSector,no educa,did not,richer,no,no,no,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+43  17  2,kpk,urban,Middle,married,primary,2,PrivateSector,primary,skilled,middle,no,yes,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+43  22  2,kpk,urban,Middle,married,secondar,2,PrivateSector,secondar,did not,richer,no,yes,yes,yes,no,yes,no,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+43  24  7,kpk,urban,Middle,married,no educa,1,home,secondar,skilled,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,yes
+43  24 11,kpk,urban,Young,married,no educa,1,home,no educa,sales,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+44   1  1,kpk,rural,Middle,married,no educa,2,Publicsector,no educa,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+44   4  2,kpk,rural,Young,married,no educa,3,home,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+44   7  2,kpk,rural,Young,married,primary,2,Publicsector,secondar,agricult,middle,no,no,yes,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+44  12  2,kpk,rural,Middle,married,primary,2,Publicsector,higher,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+44  14  6,kpk,rural,Young,married,no educa,1,PrivateSector,higher,sales,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+44  16 17,kpk,rural,Young,married,no educa,2,home,no educa,agricult,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+44  18  2,kpk,rural,Young,married,no educa,2,PrivateSector,no educa,sales,middle,no,no,no,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+44  22  2,kpk,rural,Middle,married,no educa,2,home,higher,agricult,middle,no,no,yes,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+44  26  2,kpk,rural,Middle,married,no educa,4,Publicsector,primary,skilled,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+44  26  8,kpk,rural,Young,married,no educa,4,Publicsector,primary,sales,middle,yes,no,no,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+45   1  2,kpk,rural,Middle,married,no educa,2,home,secondar,unskille,middle,no,no,no,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+45   2  2,kpk,rural,Middle,married,no educa,3,Publicsector,no educa,unskille,poorest,no,yes,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+45   4  2,kpk,rural,Middle,married,secondar,2,PrivateSector,no educa,unskille,poorer,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+45   6  2,kpk,rural,Young,married,no educa,2,home,secondar,unskille,poorest,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+45   8  4,kpk,rural,Young,married,no educa,1,home,higher,sales,poorer,no,yes,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+45   9  2,kpk,rural,Middle,married,no educa,2,PrivateSector,secondar,unskille,poorer,no,no,no,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+45  13  3,kpk,rural,Young,married,no educa,5,PrivateSector,secondar,services,middle,no,yes,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+45  13 10,kpk,rural,Young,married,no educa,5,home,no educa,unskille,middle,no,yes,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+45  16  4,kpk,rural,Young,married,no educa,2,home,primary,skilled,middle,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+45  18  3,kpk,rural,Young,married,no educa,2,PrivateSector,secondar,unskille,middle,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+45  21  2,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,poorest,no,yes,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+45  24  4,kpk,rural,Young,married,no educa,1,home,no educa,agricult,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+45  26  2,kpk,rural,Middle,married,no educa,2,home,secondar,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+45  28  2,kpk,rural,Young,married,no educa,3,home,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+46   2  9,kpk,urban,Young,married,secondar,4,home,secondar,sales,richest,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+46   2 12,kpk,urban,Middle,married,primary,4,PrivateSector,secondar,sales,richest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+46   9  2,kpk,urban,Young,married,higher,2,PrivateSector,higher,professi,richest,no,no,yes,yes,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+46  10  2,kpk,urban,Middle,married,no educa,2,Publicsector,secondar,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+46  11  2,kpk,urban,Middle,married,primary,3,Publicsector,secondar,sales,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+46  13  2,kpk,urban,Young,married,no educa,2,home,no educa,services,poorer,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+46  23  4,kpk,urban,Young,married,primary,1,PrivateSector,higher,unskille,richest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+46  25  2,kpk,urban,Young,married,no educa,2,PrivateSector,primary,services,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+46  26  2,kpk,urban,Middle,married,higher,1,PrivateSector,higher,clerical,richest,no,no,yes,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+46  28  2,kpk,urban,Young,married,secondar,1,Publicsector,no educa,did not,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+47   3  4,kpk,urban,Young,married,no educa,1,home,secondar,unskille,middle,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+47   8  2,kpk,urban,Middle,married,no educa,4,Publicsector,secondar,professi,richest,no,no,yes,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+47   9  4,kpk,urban,Young,married,secondar,2,PrivateSector,secondar,skilled,middle,no,no,yes,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+47  14  5,kpk,urban,Middle,married,higher,1,Publicsector,secondar,unskille,richer,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+47  19  4,kpk,urban,Young,married,no educa,2,home,higher,unskille,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+47  20  2,kpk,urban,Middle,married,no educa,1,home,secondar,agricult,poorer,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+47  21  9,kpk,urban,Middle,married,higher,4,PrivateSector,secondar,professi,richest,no,no,no,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+47  27  4,kpk,urban,Young,married,higher,1,PrivateSector,higher,professi,richest,no,no,yes,yes,yes,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+48   2  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,sales,middle,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+48   4  2,kpk,rural,Old,married,no educa,2,home,secondar,agricult,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+48   5  3,kpk,rural,Old,married,no educa,3,PrivateSector,higher,agricult,middle,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+48   5 10,kpk,rural,Young,married,no educa,3,Publicsector,no educa,agricult,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+48  11  4,kpk,rural,Middle,married,no educa,2,Publicsector,primary,agricult,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+48  18  2,kpk,rural,Old,married,no educa,1,home,no educa,sales,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+48  20  2,kpk,rural,Middle,married,no educa,2,home,no educa,skilled,middle,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,no,no,no
+48  21  2,kpk,rural,Young,married,secondar,3,PrivateSector,primary,professi,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+48  22  2,kpk,rural,Middle,married,primary,9,Publicsector,secondar,sales,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+48  22  9,kpk,rural,Young,married,no educa,9,Publicsector,no educa,did not,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+48  27  2,kpk,rural,Middle,married,no educa,2,home,no educa,skilled,middle,no,no,no,no,no,no,no,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+49   2  2,kpk,rural,Young,married,no educa,5,PrivateSector,higher,services,middle,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+49   4  5,kpk,rural,Young,married,primary,1,Publicsector,higher,professi,richest,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+49   8  2,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,poorest,no,no,no,no,no,no,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+49   9  4,kpk,rural,Young,widowed,no educa,3,home,secondar,unskille,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+49  10  2,kpk,rural,Young,married,primary,1,Publicsector,primary,unskille,middle,yes,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+49  13  4,kpk,rural,Middle,married,secondar,2,PrivateSector,no educa,skilled,richer,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+49  14  2,kpk,rural,Middle,married,no educa,3,PrivateSector,secondar,did not,middle,no,no,no,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+49  15  5,kpk,rural,Middle,married,no educa,3,home,secondar,sales,richest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+49  16  2,kpk,rural,Young,married,secondar,2,PrivateSector,higher,services,richer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+49  20  2,kpk,rural,Middle,married,no educa,2,home,no educa,sales,richer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+49  23  3,kpk,rural,Young,married,primary,2,Publicsector,primary,services,richer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+49  27  4,kpk,rural,Young,married,higher,2,PrivateSector,higher,professi,middle,no,no,no,yes,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+50   1  2,kpk,rural,Old,married,no educa,4,Publicsector,no educa,unskille,poorest,no,no,no,no,no,no,no,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+50   1  4,kpk,rural,Young,married,no educa,4,Publicsector,no educa,unskille,poorest,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+50   6  4,kpk,rural,Young,married,no educa,1,PrivateSector,no educa,skilled,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+50   7  4,kpk,rural,Middle,married,no educa,2,home,primary,services,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+50   9  2,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+50  10  4,kpk,rural,Young,married,no educa,3,Publicsector,higher,professi,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+50  10 10,kpk,rural,Young,married,primary,3,PrivateSector,no educa,unskille,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,no,no,no,no,yes,yes,n0,yes,yes,no
+50  11  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+50  15  2,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,poorest,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+50  16  1,kpk,rural,Middle,married,no educa,2,home,secondar,professi,poorer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+50  17  4,kpk,rural,Young,married,no educa,3,Publicsector,secondar,services,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+50  17  8,kpk,rural,Young,married,primary,3,Publicsector,primary,skilled,middle,no,no,no,no,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+50  18  2,kpk,rural,Young,married,no educa,2,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+50  20  2,kpk,rural,Old,married,no educa,1,PrivateSector,no educa,unskille,poorest,no,yes,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+50  21  4,kpk,rural,Young,married,no educa,2,home,secondar,skilled,middle,no,no,yes,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+50  27  4,kpk,rural,Young,married,no educa,2,home,primary,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+50  28 16,kpk,rural,Young,married,no educa,2,PrivateSector,secondar,unskille,middle,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+51   2  4,kpk,urban,Middle,married,secondar,3,PrivateSector,secondar,professi,richest,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+51   2 11,kpk,urban,Young,married,secondar,3,Publicsector,higher,professi,richest,no,no,yes,yes,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+51   5  4,kpk,urban,Young,married,higher,1,PrivateSector,higher,professi,richest,yes,no,yes,yes,yes,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+51   6  4,kpk,urban,Young,married,no educa,2,PrivateSector,primary,skilled,middle,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+51   8  2,kpk,urban,Young,married,higher,1,Publicsector,secondar,professi,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+51  12  7,kpk,urban,Middle,married,secondar,4,home,secondar,skilled,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+51  13 19,kpk,urban,Young,married,higher,3,PrivateSector,higher,sales,richest,no,no,no,yes,yes,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+51  20  2,kpk,urban,Old,married,secondar,1,Publicsector,secondar,unskille,richest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+51  22  1,kpk,urban,Young,married,primary,2,PrivateSector,higher,sales,richest,no,no,yes,yes,yes,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+51  23  4,kpk,urban,Young,married,no educa,1,PrivateSector,higher,sales,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+51  24  2,kpk,urban,Old,married,no educa,1,home,no educa,skilled,poorer,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes
+51  27  2,kpk,urban,Young,married,no educa,2,home,secondar,services,middle,no,no,yes,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52   1  2,kpk,urban,Young,married,secondar,2,PrivateSector,secondar,sales,richer,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52   2 11,kpk,urban,Young,married,no educa,4,Publicsector,secondar,unskille,richest,no,no,no,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52   3  2,kpk,urban,Middle,married,no educa,2,PrivateSector,no educa,unskille,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+52   4  9,kpk,urban,Young,married,secondar,4,PrivateSector,higher,sales,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+52   4 13,kpk,urban,Young,married,primary,4,PrivateSector,higher,sales,richer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52   6  2,kpk,urban,Middle,married,no educa,2,PrivateSector,primary,skilled,middle,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+52   7  8,kpk,urban,Middle,married,no educa,4,PrivateSector,primary,did not,richest,no,no,no,yes,no,yes,yes,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+52   7 14,kpk,urban,Young,married,primary,4,PrivateSector,primary,did not,richest,no,no,no,no,no,yes,no,no,Hasdocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52  10  2,kpk,urban,Middle,married,no educa,5,Publicsector,primary,professi,richest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52  10 11,kpk,urban,Middle,married,no educa,5,PrivateSector,primary,professi,richest,no,no,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+52  10 19,kpk,urban,Young,married,no educa,5,Publicsector,primary,professi,richest,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52  12  9,kpk,urban,Middle,married,higher,1,PrivateSector,primary,unskille,richest,no,no,yes,yes,yes,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+52  13  2,kpk,urban,Young,married,primary,5,Publicsector,no educa,unskille,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+52  14  3,kpk,urban,Middle,married,primary,3,PrivateSector,primary,unskille,richest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52  14  8,kpk,urban,Young,married,no educa,3,PrivateSector,secondar,unskille,richest,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52  17  2,kpk,urban,Young,married,no educa,2,home,no educa,skilled,middle,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52  18  2,kpk,urban,Middle,married,secondar,2,Publicsector,secondar,skilled,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+52  21  9,kpk,urban,Young,married,secondar,5,PrivateSector,higher,professi,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+52  21 12,kpk,urban,Young,married,no educa,5,PrivateSector,higher,professi,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+52  23  6,kpk,urban,Young,married,no educa,2,Publicsector,secondar,skilled,richest,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+53   2  2,kpk,urban,Middle,married,no educa,2,PrivateSector,no educa,sales,middle,no,no,yes,no,no,yes,yes,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+53   4  2,kpk,urban,Young,married,no educa,1,Publicsector,higher,clerical,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+53   6  2,kpk,urban,Old,married,no educa,3,PrivateSector,secondar,services,richest,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+53   6 13,kpk,urban,Young,married,secondar,3,PrivateSector,secondar,professi,richest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+53   9 10,kpk,urban,Young,married,higher,7,home,higher,sales,richest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+53   9 15,kpk,urban,Young,married,secondar,7,home,higher,sales,richest,no,no,yes,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+53  15  3,kpk,urban,Young,married,no educa,4,Publicsector,secondar,sales,richest,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+53  15  8,kpk,urban,Young,married,no educa,4,PrivateSector,secondar,sales,richest,no,no,yes,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+53  17  2,kpk,urban,Young,married,primary,2,Publicsector,secondar,unskille,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+53  18  6,kpk,urban,Young,married,higher,0,Publicsector,secondar,skilled,richer,yes,no,no,yes,yes,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+53  19  2,kpk,urban,Young,married,higher,2,PrivateSector,higher,skilled,middle,no,no,yes,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+53  21  2,kpk,urban,Middle,married,higher,1,PrivateSector,higher,professi,richest,no,no,yes,yes,yes,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+53  22  4,kpk,urban,Middle,married,higher,0,PrivateSector,secondar,professi,richest,no,no,yes,yes,yes,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+54   4  2,kpk,urban,Old,married,secondar,6,Publicsector,secondar,sales,richer,no,no,no,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+54   4  8,kpk,urban,Old,married,higher,6,Publicsector,higher,services,richer,no,no,no,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+54   4 14,kpk,urban,Young,married,higher,6,Publicsector,higher,skilled,richer,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+54   4 16,kpk,urban,Young,widowed,primary,6,Publicsector,secondar,unskille,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+54   5  2,kpk,urban,Middle,married,higher,2,PrivateSector,secondar,sales,richer,no,no,yes,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+54  10  3,kpk,urban,Young,married,no educa,10,Publicsector,no educa,skilled,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+54  10  8,kpk,urban,Young,married,no educa,10,Publicsector,no educa,skilled,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+54  10 13,kpk,urban,Young,married,no educa,10,Publicsector,no educa,skilled,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+54  10 19,kpk,urban,Young,married,secondar,10,PrivateSector,primary,skilled,richer,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+54  16  2,kpk,urban,Middle,married,secondar,2,PrivateSector,secondar,unskille,richer,no,no,yes,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+54  21  4,kpk,urban,Young,married,no educa,5,home,higher,professi,richest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+54  22  4,kpk,urban,Young,married,secondar,0,PrivateSector,no educa,sales,richer,yes,yes,yes,no,yes,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+54  24  2,kpk,urban,Middle,married,no educa,2,PrivateSector,secondar,services,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+54  25 10,kpk,urban,Young,married,no educa,3,PrivateSector,no educa,sales,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+54  27  2,kpk,urban,Middle,married,no educa,1,PrivateSector,no educa,unskille,middle,no,no,yes,no,no,no,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+54  28  4,kpk,urban,Middle,married,no educa,2,Publicsector,primary,unskille,richer,no,no,yes,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+55   1  4,kpk,urban,Middle,married,higher,1,Publicsector,secondar,sales,richest,no,no,no,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+55   3  2,kpk,urban,Middle,married,secondar,4,PrivateSector,secondar,sales,richest,no,no,yes,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+55   3  8,kpk,urban,Middle,married,higher,4,Publicsector,secondar,sales,richest,no,no,yes,yes,yes,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+55   5  4,kpk,urban,Young,married,higher,4,PrivateSector,higher,sales,richest,no,no,yes,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+55   5  9,kpk,urban,Young,married,higher,4,PrivateSector,higher,sales,richest,no,no,yes,yes,yes,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+55   6  2,kpk,urban,Middle,married,higher,1,PrivateSector,secondar,sales,richest,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+55  21  4,kpk,urban,Young,married,higher,1,PrivateSector,higher,sales,richest,no,no,yes,yes,yes,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+55  25  7,kpk,urban,Middle,married,higher,3,PrivateSector,higher,professi,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+55  28  2,kpk,urban,Young,married,secondar,2,Publicsector,higher,professi,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+56   1  2,kpk,urban,Young,married,no educa,4,PrivateSector,no educa,sales,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+56   2  4,kpk,urban,Young,married,no educa,2,PrivateSector,secondar,sales,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+56   3  2,kpk,urban,Young,married,no educa,2,Publicsector,no educa,sales,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+56   5 12,kpk,urban,Young,married,no educa,5,PrivateSector,secondar,professi,richest,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+56   6  4,kpk,urban,Middle,married,no educa,2,home,no educa,sales,middle,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+56   8 11,kpk,urban,Young,married,no educa,9,Publicsector,higher,sales,richest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+56   8 23,kpk,urban,Young,married,primary,9,Publicsector,secondar,sales,richest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+56   8 31,kpk,urban,Old,married,no educa,9,Publicsector,secondar,sales,richest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+56   8 40,kpk,urban,Young,married,primary,9,Publicsector,higher,sales,richest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+56   9 13,kpk,urban,Young,married,no educa,7,home,primary,services,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+56   9 17,kpk,urban,Young,married,no educa,7,home,secondar,sales,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+56  10  2,kpk,urban,Middle,married,secondar,2,PrivateSector,higher,professi,richest,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+56  11  4,kpk,urban,Old,married,no educa,1,PrivateSector,no educa,sales,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+56  13  4,kpk,urban,Young,married,primary,2,home,primary,skilled,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+56  14  4,kpk,urban,Middle,married,no educa,3,home,secondar,sales,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+56  15  4,kpk,urban,Young,married,no educa,3,home,secondar,skilled,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+56  15 10,kpk,urban,Young,married,no educa,3,home,secondar,sales,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+56  16  2,kpk,urban,Middle,married,no educa,2,PrivateSector,no educa,sales,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+56  18  2,kpk,urban,Middle,married,no educa,3,home,no educa,skilled,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+56  19  2,kpk,urban,Middle,married,no educa,2,home,secondar,sales,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+56  21  2,kpk,urban,Middle,married,no educa,2,Publicsector,no educa,sales,poorer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+56  24  2,kpk,urban,Young,married,no educa,3,home,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+56  25  2,kpk,urban,Middle,married,no educa,2,PrivateSector,primary,agricult,richer,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+56  27  4,kpk,urban,Middle,married,no educa,4,home,secondar,skilled,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+56  27 12,kpk,urban,Middle,married,primary,4,home,no educa,unskille,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+57   2  2,kpk,urban,Young,married,no educa,2,Publicsector,no educa,unskille,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+57   3  5,kpk,urban,Middle,married,no educa,3,home,no educa,sales,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+57   8  2,kpk,urban,Middle,married,no educa,3,home,no educa,skilled,poorer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+57   9  4,kpk,urban,Old,married,higher,4,Publicsector,higher,professi,richest,yes,no,no,yes,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+57   9  9,kpk,urban,Middle,married,secondar,4,Publicsector,higher,clerical,richest,no,no,no,yes,yes,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+57   9 14,kpk,urban,Young,married,higher,4,Publicsector,higher,professi,richest,no,no,yes,yes,yes,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+57  10  4,kpk,urban,Middle,married,primary,1,Publicsector,secondar,sales,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+57  12  2,kpk,urban,Old,married,no educa,1,home,no educa,skilled,middle,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+57  18  2,kpk,urban,Young,married,no educa,1,PrivateSector,no educa,unskille,poorest,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+57  20  2,kpk,urban,Middle,married,no educa,1,Publicsector,no educa,unskille,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+57  22  2,kpk,urban,Young,married,primary,1,Publicsector,primary,skilled,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+57  27  9,kpk,urban,Young,married,higher,0,Publicsector,higher,professi,middle,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+57  28  4,kpk,urban,Young,married,no educa,1,PrivateSector,higher,skilled,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+58   3  3,kpk,urban,Middle,married,higher,2,Publicsector,higher,skilled,richest,no,no,no,yes,yes,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+58   4  2,kpk,urban,Middle,married,no educa,1,Publicsector,secondar,skilled,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+58   7  2,kpk,urban,Middle,married,no educa,2,PrivateSector,secondar,sales,richer,no,no,yes,yes,no,yes,yes,yes,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+58   9  2,kpk,urban,Young,married,higher,1,PrivateSector,higher,clerical,richest,no,no,yes,yes,yes,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+58  11  2,kpk,urban,Middle,married,no educa,4,PrivateSector,secondar,services,richer,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+58  11  9,kpk,urban,Young,married,secondar,4,PrivateSector,secondar,services,richer,no,no,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+58  14  2,kpk,urban,Middle,married,secondar,1,Publicsector,secondar,sales,richest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+58  16  5,kpk,urban,Young,married,secondar,1,Publicsector,primary,skilled,richer,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+58  21  5,kpk,urban,Young,married,higher,1,PrivateSector,secondar,skilled,richest,no,no,yes,yes,yes,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+58  23  7,kpk,urban,Young,married,secondar,0,PrivateSector,secondar,services,middle,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+58  28  6,kpk,urban,Young,married,no educa,2,home,secondar,skilled,richer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+59   1  4,kpk,urban,Young,married,secondar,3,Publicsector,primary,unskille,richest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+59   1  8,kpk,urban,Young,married,secondar,3,home,primary,unskille,richest,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+59   5  2,kpk,urban,Young,married,secondar,2,PrivateSector,primary,clerical,richest,no,no,yes,no,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+59   7  6,kpk,urban,Young,married,no educa,2,Publicsector,no educa,sales,richer,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+59   8  3,kpk,urban,Middle,married,secondar,2,Publicsector,higher,sales,richest,yes,no,yes,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+59  10  2,kpk,urban,Old,married,no educa,4,home,no educa,skilled,poorer,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+59  18  2,kpk,urban,Middle,married,higher,1,Publicsector,secondar,services,richest,no,no,yes,yes,yes,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+59  20  4,kpk,urban,Middle,married,higher,1,PrivateSector,higher,professi,richest,yes,no,yes,yes,yes,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+59  25  2,kpk,urban,Middle,married,secondar,2,Publicsector,secondar,professi,richest,yes,no,yes,yes,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+59  27  4,kpk,urban,Middle,married,higher,2,PrivateSector,higher,sales,richest,no,no,yes,yes,yes,no,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+59  28  2,kpk,urban,Middle,married,secondar,1,Publicsector,higher,professi,richest,no,no,no,yes,no,no,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+60   4  3,kpk,urban,Young,married,secondar,2,Publicsector,secondar,professi,richest,no,no,yes,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+60  14  4,kpk,urban,Young,married,higher,6,PrivateSector,higher,professi,richest,yes,no,yes,yes,yes,yes,yes,no,Nodocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+60  24 17,kpk,urban,Old,married,no educa,1,Publicsector,no educa,services,richest,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+61   4  3,kpk,urban,Young,married,no educa,3,Publicsector,primary,agricult,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61   5  2,kpk,urban,Young,married,no educa,3,home,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61   7  2,kpk,urban,Middle,married,no educa,1,Publicsector,higher,professi,poorer,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+61   8  3,kpk,urban,Middle,married,no educa,5,Publicsector,no educa,sales,richest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+61   8 18,kpk,urban,Middle,married,no educa,5,Publicsector,primary,skilled,richest,no,no,yes,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61  11  7,kpk,urban,Middle,married,no educa,4,PrivateSector,secondar,unskille,middle,no,no,no,no,no,no,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+61  11 15,kpk,urban,Young,married,no educa,4,PrivateSector,higher,clerical,middle,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61  12  2,kpk,urban,Old,married,no educa,2,Publicsector,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+61  14  4,kpk,urban,Young,married,primary,1,Publicsector,higher,did not,poorer,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+61  15  4,kpk,urban,Young,married,no educa,2,Publicsector,secondar,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+61  16  4,kpk,urban,Young,married,higher,2,PrivateSector,higher,skilled,richer,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+61  17  6,kpk,urban,Young,married,secondar,3,PrivateSector,higher,professi,richest,no,no,no,yes,no,no,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61  18  3,kpk,urban,Middle,married,no educa,3,Publicsector,secondar,sales,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61  18  8,kpk,urban,Young,married,no educa,3,Publicsector,no educa,services,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+61  21 10,kpk,urban,Young,married,no educa,8,Publicsector,secondar,sales,richer,no,no,no,yes,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61  21 16,kpk,urban,Young,married,no educa,8,Publicsector,no educa,sales,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+61  22  2,kpk,urban,Middle,married,no educa,2,Publicsector,primary,sales,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61  23  2,kpk,urban,Young,married,no educa,1,Publicsector,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61  25  2,kpk,urban,Middle,married,no educa,5,home,no educa,unskille,poorer,no,no,no,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61  27 10,kpk,urban,Young,married,no educa,2,PrivateSector,higher,clerical,richest,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61  28  8,kpk,urban,Young,married,no educa,8,Publicsector,higher,sales,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+61  28 15,kpk,urban,Young,married,no educa,8,Publicsector,higher,services,richer,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+61  28 21,kpk,urban,Young,married,primary,8,Publicsector,higher,agricult,richer,yes,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+62   2  2,kpk,urban,Old,married,no educa,1,PrivateSector,primary,skilled,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+62   3  4,kpk,urban,Middle,married,no educa,2,Publicsector,primary,services,poorer,no,no,yes,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+62   4  2,kpk,urban,Middle,married,no educa,2,home,no educa,professi,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+62   8  6,kpk,urban,Young,married,no educa,1,home,primary,skilled,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+62  11  1,kpk,urban,Young,married,no educa,2,home,no educa,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+62  15  2,kpk,urban,Middle,married,no educa,3,Publicsector,no educa,skilled,middle,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+62  16  2,kpk,urban,Middle,married,no educa,2,Publicsector,no educa,sales,richer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+62  18  4,kpk,urban,Young,married,no educa,3,home,no educa,services,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+62  22  4,kpk,urban,Young,married,no educa,3,Publicsector,primary,unskille,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+62  28 10,kpk,urban,Young,married,no educa,4,Publicsector,higher,sales,richest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+63   6  2,kpk,urban,Young,married,higher,3,Publicsector,higher,did not,richest,no,no,no,yes,no,yes,yes,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+63  10  2,kpk,urban,Middle,married,primary,1,PrivateSector,higher,clerical,richest,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+63  12  4,kpk,urban,Young,married,secondar,3,PrivateSector,secondar,services,richest,yes,no,yes,no,yes,yes,yes,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+63  12  7,kpk,urban,Young,married,secondar,3,PrivateSector,higher,clerical,richest,yes,no,yes,no,yes,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+63  14  2,kpk,urban,Old,married,primary,1,Publicsector,higher,clerical,middle,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+63  15  2,kpk,urban,Young,married,primary,2,Publicsector,primary,agricult,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+63  16  2,kpk,urban,Middle,married,secondar,4,PrivateSector,higher,sales,richest,no,no,yes,yes,no,no,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+63  23  4,kpk,urban,Young,married,primary,2,Publicsector,higher,professi,richest,no,no,yes,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+63  27  4,kpk,urban,Young,married,higher,2,Publicsector,higher,professi,richest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+64   4  2,kpk,rural,Middle,married,higher,1,PrivateSector,secondar,agricult,richer,no,no,no,yes,no,no,no,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+64   5  5,kpk,rural,Middle,married,higher,2,PrivateSector,secondar,professi,richest,no,no,yes,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+64  11  2,kpk,rural,Middle,married,higher,2,PrivateSector,higher,professi,richer,no,no,no,yes,yes,no,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+64  13  3,kpk,rural,Young,married,secondar,1,PrivateSector,higher,clerical,richest,no,no,no,yes,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+64  14 13,kpk,rural,Middle,married,higher,4,PrivateSector,secondar,clerical,richest,yes,no,yes,no,yes,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+64  14 18,kpk,rural,Middle,married,higher,4,PrivateSector,secondar,sales,richest,no,no,yes,yes,yes,yes,yes,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+64  18  2,kpk,rural,Old,married,primary,1,home,secondar,services,richest,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+64  19  4,kpk,rural,Young,married,higher,4,PrivateSector,secondar,skilled,richest,no,no,yes,no,no,no,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+64  19 11,kpk,rural,Young,married,primary,4,PrivateSector,secondar,unskille,richest,no,no,no,no,no,no,no,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+64  25  4,kpk,rural,Young,married,secondar,1,Publicsector,higher,clerical,richest,no,no,no,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+64  27  2,kpk,rural,Young,married,higher,1,home,secondar,sales,richer,no,no,no,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+64  28  7,kpk,rural,Middle,married,secondar,6,PrivateSector,secondar,services,richest,no,no,yes,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+64  28 11,kpk,rural,Middle,married,primary,6,PrivateSector,higher,professi,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+64  28 15,kpk,rural,Middle,married,secondar,6,PrivateSector,higher,sales,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+65   1  2,kpk,rural,Middle,married,no educa,2,PrivateSector,secondar,agricult,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+65   8  4,kpk,rural,Young,married,no educa,2,PrivateSector,higher,sales,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+65   9  5,kpk,rural,Young,married,no educa,2,Publicsector,primary,skilled,middle,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+65  10  3,kpk,rural,Middle,married,no educa,2,home,primary,services,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+65  11  3,kpk,rural,Middle,married,no educa,2,PrivateSector,primary,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+65  12  6,kpk,rural,Young,married,no educa,3,PrivateSector,secondar,agricult,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+65  12 13,kpk,rural,Middle,married,no educa,3,PrivateSector,secondar,skilled,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+65  14  4,kpk,rural,Young,married,no educa,1,Publicsector,primary,unskille,middle,no,no,no,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+65  15  2,kpk,rural,Middle,married,primary,4,Publicsector,no educa,agricult,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+65  18  2,kpk,rural,Old,married,no educa,1,PrivateSector,higher,skilled,richer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,no,yes,yes,yes,no,yes,yes
+65  22  7,kpk,rural,Middle,married,no educa,1,Publicsector,higher,sales,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+65  23  4,kpk,rural,Middle,married,no educa,2,home,no educa,agricult,poorest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+65  26  2,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,richer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+66   3  2,kpk,urban,Young,married,secondar,3,PrivateSector,secondar,unskille,richer,no,no,yes,no,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+66   4  2,kpk,urban,Middle,married,no educa,2,Publicsector,secondar,skilled,richer,no,no,yes,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+66   8  7,kpk,urban,Young,married,secondar,2,home,secondar,sales,richest,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+66   9  5,kpk,urban,Young,married,primary,3,PrivateSector,primary,skilled,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+66  14  3,kpk,urban,Middle,married,secondar,1,PrivateSector,secondar,skilled,richer,no,no,yes,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+66  14 10,kpk,urban,Middle,married,higher,1,PrivateSector,primary,skilled,richer,no,no,yes,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+66  16  3,kpk,urban,Young,married,higher,2,Publicsector,higher,skilled,richest,no,no,yes,yes,no,yes,yes,yes,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+66  23  2,kpk,urban,Young,married,no educa,2,PrivateSector,secondar,sales,richer,no,no,yes,yes,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+66  28 19,kpk,urban,Middle,married,secondar,8,PrivateSector,secondar,services,richest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+66  28 23,kpk,urban,Middle,married,no educa,8,Publicsector,primary,professi,richest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+66  28 28,kpk,urban,Middle,married,secondar,8,PrivateSector,secondar,skilled,richest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+67   1  2,kpk,urban,Young,married,no educa,2,home,secondar,skilled,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+67   3  5,kpk,urban,Young,married,secondar,2,home,higher,skilled,richer,no,no,yes,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+67   5  4,kpk,urban,Young,married,no educa,3,PrivateSector,secondar,unskille,richer,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+67   6  4,kpk,urban,Young,married,secondar,6,home,secondar,unskille,richer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+67   6  8,kpk,urban,Young,married,primary,6,home,secondar,skilled,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+67  11  4,kpk,urban,Middle,married,no educa,4,home,primary,unskille,richer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+67  12  2,kpk,urban,Young,married,secondar,3,Publicsector,secondar,unskille,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+67  16  2,kpk,urban,Young,married,no educa,3,home,secondar,skilled,middle,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+67  17  4,kpk,urban,Young,married,no educa,2,home,secondar,unskille,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+67  20  4,kpk,urban,Young,married,no educa,3,Publicsector,secondar,sales,richer,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+67  20  9,kpk,urban,Young,married,no educa,3,Publicsector,higher,skilled,richer,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+67  21  7,kpk,urban,Middle,married,higher,0,PrivateSector,secondar,sales,richer,no,no,yes,yes,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+67  25  7,kpk,urban,Young,married,no educa,2,home,secondar,skilled,richest,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+67  26  4,kpk,urban,Young,married,no educa,2,home,higher,skilled,richest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+68   7  2,kpk,urban,Young,married,no educa,3,Publicsector,secondar,services,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+68   9  2,kpk,urban,Young,married,secondar,2,PrivateSector,secondar,sales,richer,yes,no,no,no,no,no,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+68  11  2,kpk,urban,Young,married,secondar,2,home,secondar,skilled,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+68  16  2,kpk,urban,Young,married,secondar,2,PrivateSector,higher,services,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+68  17  3,kpk,urban,Young,married,secondar,2,PrivateSector,secondar,skilled,richer,no,no,yes,yes,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+68  20  2,kpk,urban,Middle,married,no educa,1,Publicsector,no educa,skilled,poorer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+68  21  2,kpk,urban,Young,married,higher,1,home,higher,unskille,richest,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+68  24  2,kpk,urban,Middle,married,secondar,1,Publicsector,higher,professi,richest,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+68  25  2,kpk,urban,Young,married,primary,1,PrivateSector,secondar,sales,richer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+69   3  2,kpk,rural,Middle,married,no educa,2,Publicsector,no educa,unskille,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69   4  2,kpk,rural,Young,married,no educa,2,home,higher,professi,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69   8  7,kpk,rural,Young,married,no educa,2,Publicsector,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69   9  2,kpk,rural,Old,married,primary,1,PrivateSector,no educa,sales,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69  10  4,kpk,rural,Young,married,no educa,1,Publicsector,secondar,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69  13  4,kpk,rural,Young,married,no educa,5,Publicsector,no educa,unskille,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69  13 13,kpk,rural,Young,married,no educa,5,Publicsector,no educa,unskille,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69  16  2,kpk,rural,Middle,married,no educa,6,Publicsector,primary,unskille,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69  16  9,kpk,rural,Middle,married,secondar,6,Publicsector,secondar,unskille,middle,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+69  16 14,kpk,rural,Young,married,no educa,6,Publicsector,primary,unskille,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+69  17  2,kpk,rural,Old,married,no educa,2,Publicsector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69  18  5,kpk,rural,Young,married,no educa,5,PrivateSector,no educa,did not,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69  18 12,kpk,rural,Young,married,no educa,5,Publicsector,primary,unskille,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69  18 15,kpk,rural,Young,married,no educa,5,Publicsector,no educa,unskille,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,no,no,yes,no,yes,yes,no,n0,yes,no,no
+69  21  4,kpk,rural,Young,married,no educa,2,home,secondar,services,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69  23  4,kpk,rural,Middle,married,no educa,2,Publicsector,higher,professi,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,yes,no,yes,yes,yes,n0,yes,yes,no
+69  26  1,kpk,rural,Middle,married,no educa,3,PrivateSector,primary,unskille,poorest,no,no,no,no,no,no,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+69  27  8,kpk,rural,Old,married,no educa,3,PrivateSector,no educa,skilled,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+70   1  4,kpk,urban,Young,married,secondar,4,Publicsector,secondar,sales,richest,no,no,yes,no,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+70   1  8,kpk,urban,Young,married,no educa,4,Publicsector,secondar,sales,richest,no,no,yes,no,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+70   4  2,kpk,urban,Middle,married,secondar,2,PrivateSector,secondar,professi,richest,no,no,yes,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+70   7  2,kpk,urban,Young,married,secondar,3,Publicsector,higher,professi,richest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+70  10  5,kpk,urban,Young,married,secondar,3,Publicsector,higher,professi,richest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+70  12  5,kpk,urban,Young,married,secondar,2,PrivateSector,secondar,skilled,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+70  18  2,kpk,urban,Young,married,no educa,2,PrivateSector,secondar,sales,middle,no,no,yes,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+70  21  4,kpk,urban,Middle,married,secondar,2,PrivateSector,secondar,skilled,richest,no,no,yes,yes,yes,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+70  23  2,kpk,urban,Middle,married,no educa,2,Publicsector,no educa,professi,richest,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+70  25  8,kpk,urban,Middle,married,higher,2,PrivateSector,secondar,professi,richest,no,no,yes,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+70  26 10,kpk,urban,Old,married,higher,2,Publicsector,higher,professi,richest,yes,no,yes,yes,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+71   1  2,kpk,urban,Middle,married,higher,2,PrivateSector,higher,sales,richest,no,no,no,yes,yes,no,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+71   5  2,kpk,urban,Middle,married,no educa,2,home,higher,professi,richer,no,no,yes,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+71   9  2,kpk,urban,Young,married,higher,2,PrivateSector,secondar,skilled,richer,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+71  10  2,kpk,urban,Young,married,no educa,3,PrivateSector,primary,unskille,richer,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+71  11  5,kpk,urban,Middle,married,no educa,3,Publicsector,secondar,unskille,richer,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+71  12  4,kpk,urban,Young,married,no educa,3,Publicsector,higher,skilled,richer,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+71  12  7,kpk,urban,Young,married,no educa,3,Publicsector,higher,skilled,richer,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+71  13  7,kpk,urban,Middle,married,no educa,1,Publicsector,secondar,unskille,richest,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+71  14  9,kpk,urban,Young,married,no educa,2,Publicsector,higher,services,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+71  15  2,kpk,urban,Young,married,secondar,2,PrivateSector,secondar,professi,richer,no,no,yes,yes,yes,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+71  17  3,kpk,urban,Young,married,primary,2,PrivateSector,higher,professi,richest,no,no,yes,no,no,yes,no,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+71  20  2,kpk,urban,Young,married,secondar,3,home,secondar,services,richest,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+71  24  5,kpk,urban,Young,married,higher,0,Publicsector,higher,professi,richest,yes,no,yes,yes,yes,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+71  28  7,kpk,urban,Young,married,higher,0,Publicsector,secondar,professi,richest,yes,yes,no,yes,yes,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+72   1  2,kpk,urban,Young,married,no educa,3,PrivateSector,no educa,unskille,poorer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+72   2  2,kpk,urban,Young,married,no educa,3,PrivateSector,secondar,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+72   4 11,kpk,urban,Young,married,no educa,5,PrivateSector,secondar,sales,middle,no,yes,no,no,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+72   7  2,kpk,urban,Middle,married,secondar,1,PrivateSector,primary,sales,richest,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+72  13  2,kpk,urban,Young,married,no educa,2,PrivateSector,secondar,skilled,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+72  14  2,kpk,urban,Middle,married,no educa,2,home,secondar,agricult,poorest,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+72  15 11,kpk,urban,Young,married,no educa,2,home,primary,sales,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+72  16  4,kpk,urban,Young,married,no educa,2,home,primary,sales,poorest,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+72  18  5,kpk,urban,Young,married,no educa,2,PrivateSector,higher,sales,poorer,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+72  25 15,kpk,urban,Young,married,no educa,5,home,no educa,skilled,poorest,no,yes,no,no,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+72  26  2,kpk,urban,Old,married,no educa,1,PrivateSector,no educa,skilled,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+73   3  4,kpk,rural,Middle,married,secondar,2,home,secondar,skilled,richer,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no,no
+73   5  2,kpk,rural,Old,married,no educa,1,PrivateSector,higher,professi,middle,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+73   8  4,kpk,rural,Middle,married,secondar,3,PrivateSector,higher,sales,middle,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+73   9  3,kpk,rural,Old,married,no educa,6,PrivateSector,secondar,skilled,richest,no,no,no,yes,yes,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+73   9  6,kpk,rural,Middle,married,higher,6,Publicsector,higher,professi,richest,yes,no,no,yes,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+73  13  2,kpk,rural,Middle,married,secondar,3,home,secondar,unskille,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+73  13  5,kpk,rural,Young,married,secondar,3,PrivateSector,higher,skilled,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+73  16  2,kpk,rural,Old,married,higher,1,home,higher,did not,richer,no,no,yes,yes,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+73  18  3,kpk,rural,Middle,married,secondar,2,Publicsector,higher,professi,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+73  21  4,kpk,rural,Young,married,secondar,2,PrivateSector,secondar,unskille,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+73  27  9,kpk,rural,Young,married,no educa,4,PrivateSector,higher,skilled,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+73  28  9,kpk,rural,Old,married,secondar,4,PrivateSector,secondar,sales,richest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+73  28 14,kpk,rural,Young,married,secondar,4,PrivateSector,secondar,sales,richest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74   6  3,kpk,rural,Young,married,no educa,3,home,primary,skilled,middle,no,no,yes,yes,yes,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74   6  6,kpk,rural,Young,married,primary,3,Publicsector,primary,skilled,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74   7 19,kpk,rural,Middle,married,no educa,2,home,primary,sales,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,no,no,yes,yes,no,yes,yes,yes,n0,yes,yes,no
+74   8  2,kpk,rural,Middle,married,no educa,1,PrivateSector,secondar,skilled,richer,no,no,yes,yes,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74   9  7,kpk,rural,Old,married,no educa,6,home,secondar,skilled,middle,no,no,yes,yes,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74   9 12,kpk,rural,Middle,married,no educa,6,PrivateSector,secondar,sales,middle,no,no,yes,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74   9 17,kpk,rural,Young,married,no educa,6,home,secondar,services,middle,no,no,yes,yes,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74  10  2,kpk,rural,Middle,married,no educa,2,home,secondar,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74  15  2,kpk,rural,Middle,married,no educa,2,home,no educa,sales,poorer,no,no,yes,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74  16  6,kpk,rural,Middle,married,no educa,8,home,secondar,skilled,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74  16 14,kpk,rural,Middle,married,no educa,8,home,secondar,unskille,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74  16 24,kpk,rural,Young,married,no educa,8,PrivateSector,secondar,unskille,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74  18  2,kpk,rural,Middle,married,no educa,4,Publicsector,primary,unskille,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74  18  9,kpk,rural,Middle,married,no educa,4,home,secondar,sales,middle,no,no,no,yes,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74  22  2,kpk,rural,Middle,married,no educa,2,home,secondar,unskille,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74  23  2,kpk,rural,Middle,married,no educa,2,home,no educa,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+74  28  8,kpk,rural,Young,married,primary,1,Publicsector,no educa,skilled,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+75   1  2,kpk,urban,Middle,married,higher,3,PrivateSector,higher,professi,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+75   4  2,kpk,urban,Young,married,no educa,2,home,no educa,sales,middle,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+75   7  4,kpk,urban,Middle,married,secondar,3,Publicsector,primary,skilled,richest,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+75  10  2,kpk,urban,Middle,married,primary,1,home,higher,professi,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+75  11  5,kpk,urban,Young,married,no educa,2,home,higher,professi,richest,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+75  15  4,kpk,urban,Young,married,higher,1,Publicsector,higher,professi,richest,yes,no,yes,no,yes,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+75  16  2,kpk,urban,Middle,married,primary,1,PrivateSector,higher,professi,richer,no,no,yes,no,no,no,no,no,Hasdocuments,no,yes,yes,no,no,no,no,yes,yes,n0,yes,yes,no
+75  17  6,kpk,urban,Young,married,secondar,3,home,higher,clerical,richest,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+75  17 12,kpk,urban,Young,married,higher,3,home,secondar,unskille,richest,no,no,yes,no,no,no,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+75  19  2,kpk,urban,Middle,married,higher,2,PrivateSector,higher,sales,richest,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+75  21  1,kpk,urban,Middle,married,no educa,2,PrivateSector,higher,unskille,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+75  25  5,kpk,urban,Middle,married,secondar,2,PrivateSector,higher,did not,richest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+75  28  6,kpk,urban,Old,married,no educa,1,PrivateSector,secondar,skilled,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+76   2  5,kpk,rural,Middle,married,no educa,1,Publicsector,secondar,sales,middle,no,no,no,yes,no,yes,no,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+76   3  4,kpk,rural,Middle,married,no educa,3,home,no educa,unskille,poorer,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76   5  2,kpk,rural,Young,married,no educa,2,home,primary,unskille,poorest,no,no,no,no,no,no,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76   6  4,kpk,rural,Middle,married,no educa,2,PrivateSector,secondar,skilled,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76   7  3,kpk,rural,Middle,married,no educa,2,home,secondar,did not,poorer,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76   9  2,kpk,rural,Middle,married,no educa,3,home,no educa,unskille,poorer,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76  10  2,kpk,rural,Old,married,no educa,3,Publicsector,higher,professi,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76  11  2,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,poorer,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76  15  2,kpk,rural,Young,married,no educa,3,home,secondar,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76  18  4,kpk,rural,Young,married,no educa,1,Publicsector,secondar,skilled,poorer,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76  21  2,kpk,rural,Middle,married,no educa,2,Publicsector,no educa,skilled,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76  22  2,kpk,rural,Old,married,no educa,3,PrivateSector,secondar,unskille,middle,no,no,no,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76  23  2,kpk,rural,Middle,married,no educa,3,Publicsector,no educa,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76  25  2,kpk,rural,Middle,married,no educa,3,home,no educa,skilled,poorer,no,no,no,yes,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+76  28 20,kpk,rural,Middle,married,secondar,5,Publicsector,higher,professi,middle,yes,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+77   1  2,kpk,urban,Young,married,secondar,2,home,higher,sales,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+77   6  2,kpk,urban,Middle,married,no educa,2,home,secondar,skilled,middle,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+77   8  7,kpk,urban,Old,married,secondar,1,Publicsector,secondar,skilled,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+77   9  4,kpk,urban,Young,married,primary,2,Publicsector,secondar,did not,richer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+77  10  4,kpk,urban,Young,married,higher,4,PrivateSector,secondar,professi,richest,yes,no,yes,yes,yes,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+77  10  9,kpk,urban,Young,married,no educa,4,home,higher,services,richest,no,no,yes,yes,no,yes,yes,yes,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+77  15  2,kpk,urban,Middle,married,no educa,1,home,secondar,skilled,richer,no,no,yes,yes,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+77  17  2,kpk,urban,Young,married,secondar,1,Publicsector,secondar,services,middle,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+77  22  2,kpk,urban,Middle,married,higher,5,home,primary,did not,middle,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+77  22  7,kpk,urban,Middle,married,no educa,5,home,primary,professi,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+77  24  3,kpk,urban,Young,married,higher,2,home,higher,services,richest,no,no,no,yes,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+77  24  5,kpk,urban,Young,married,secondar,2,Publicsector,higher,skilled,richest,no,no,no,no,no,yes,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+77  27  2,kpk,urban,Young,married,no educa,3,home,higher,sales,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78   1  2,kpk,rural,Young,married,no educa,3,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78   4  2,kpk,rural,Young,married,no educa,2,home,secondar,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78   6  2,kpk,rural,Old,married,no educa,3,home,no educa,skilled,poorest,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78   8  2,kpk,rural,Middle,married,no educa,2,home,no educa,skilled,poorest,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78  11  4,kpk,rural,Middle,married,no educa,3,home,secondar,services,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78  13  4,kpk,rural,Middle,married,no educa,4,Publicsector,no educa,agricult,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78  18  2,kpk,rural,Young,married,no educa,4,Publicsector,secondar,agricult,poorer,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+78  19  2,kpk,rural,Middle,married,no educa,3,home,no educa,agricult,poorest,no,no,no,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78  21  4,kpk,rural,Young,married,no educa,2,home,no educa,unskille,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+78  23  6,kpk,rural,Young,married,no educa,3,Publicsector,secondar,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78  24  4,kpk,rural,Middle,married,no educa,3,home,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78  25  1,kpk,rural,Young,married,no educa,2,Publicsector,primary,skilled,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,no,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes
+78  26  4,kpk,rural,Young,married,no educa,3,Publicsector,no educa,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78  27  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+78  28  2,kpk,rural,Old,married,no educa,3,home,no educa,agricult,poorer,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79   2  2,kpk,rural,Young,married,primary,1,home,higher,sales,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+79   4  2,kpk,rural,Middle,married,no educa,3,home,no educa,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79   6  2,kpk,rural,Middle,married,no educa,3,home,no educa,agricult,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79   9  4,kpk,rural,Old,married,no educa,3,home,no educa,skilled,poorer,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79  10  2,kpk,rural,Middle,married,no educa,1,home,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79  11  2,kpk,rural,Young,married,no educa,2,home,no educa,sales,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79  12  4,kpk,rural,Young,married,no educa,3,home,no educa,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79  16  6,kpk,rural,Young,married,no educa,1,home,secondar,sales,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+79  18  2,kpk,rural,Middle,married,no educa,2,home,no educa,skilled,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79  22  2,kpk,rural,Old,married,no educa,3,home,no educa,agricult,poorest,no,no,yes,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79  23  2,kpk,rural,Young,married,no educa,2,home,no educa,agricult,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79  24  2,kpk,rural,Old,married,no educa,2,home,no educa,unskille,poorer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79  27  2,kpk,rural,Middle,married,no educa,2,home,secondar,agricult,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+79  28  3,kpk,rural,Young,married,no educa,2,home,no educa,unskille,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+80   5  2,kpk,urban,Young,married,secondar,2,home,secondar,skilled,richest,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+80   6  2,kpk,urban,Middle,married,secondar,2,PrivateSector,higher,professi,richest,no,no,yes,yes,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+80   8  4,kpk,urban,Middle,married,secondar,4,home,higher,skilled,richer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+80   9  4,kpk,urban,Young,married,secondar,2,home,secondar,sales,richest,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+80  10  2,kpk,urban,Middle,married,secondar,2,home,primary,skilled,richest,no,no,yes,yes,no,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+80  13  2,kpk,urban,Middle,married,primary,2,PrivateSector,primary,sales,richer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+80  16  2,kpk,urban,Middle,married,secondar,2,PrivateSector,secondar,sales,richest,no,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+80  19  4,kpk,urban,Middle,married,higher,1,PrivateSector,higher,professi,richest,yes,no,yes,yes,yes,yes,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+81   3  7,kpk,urban,Young,married,higher,2,PrivateSector,higher,professi,richest,yes,no,yes,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+81   4  3,kpk,urban,Middle,married,higher,5,Publicsector,secondar,professi,richest,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+81   4  7,kpk,urban,Middle,married,higher,5,Publicsector,secondar,professi,richest,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+81   4 11,kpk,urban,Young,married,secondar,5,PrivateSector,primary,skilled,richest,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+81   4 15,kpk,urban,Young,married,secondar,5,Publicsector,secondar,sales,richest,no,no,yes,yes,no,yes,yes,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+81   7  4,kpk,urban,Young,married,secondar,1,PrivateSector,higher,did not,richest,no,no,yes,yes,yes,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+81  10  2,kpk,urban,Young,married,no educa,1,home,secondar,skilled,poorer,no,no,no,no,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+81  12  4,kpk,urban,Young,married,primary,4,home,higher,services,richest,no,no,yes,yes,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+81  12  9,kpk,urban,Young,married,secondar,4,home,higher,services,richest,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+81  14  2,kpk,urban,Middle,married,no educa,2,Publicsector,no educa,unskille,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+81  15  3,kpk,urban,Middle,married,no educa,4,PrivateSector,no educa,skilled,middle,no,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+81  19  2,kpk,urban,Middle,married,higher,3,PrivateSector,secondar,skilled,richest,yes,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+81  21  2,kpk,urban,Old,married,no educa,2,home,secondar,services,richest,no,no,yes,yes,no,yes,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+81  26  3,kpk,urban,Young,married,higher,1,Publicsector,secondar,services,richest,yes,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+81  27  2,kpk,urban,Young,married,no educa,2,home,no educa,services,middle,no,yes,yes,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+82   1  7,kpk,urban,Young,married,no educa,3,PrivateSector,secondar,unskille,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+82   8  4,kpk,urban,Middle,married,no educa,1,Publicsector,higher,skilled,middle,no,no,no,no,no,yes,yes,yes,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+82   9  2,kpk,urban,Middle,married,no educa,3,home,no educa,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+82  10  4,kpk,urban,Middle,married,primary,2,home,secondar,skilled,poorer,no,no,yes,no,no,yes,yes,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+82  15  3,kpk,urban,Middle,married,no educa,6,home,secondar,unskille,poorer,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+82  15 10,kpk,urban,Old,married,no educa,6,Publicsector,no educa,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+82  16  2,kpk,urban,Middle,married,no educa,1,PrivateSector,no educa,unskille,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+82  17  2,kpk,urban,Middle,married,no educa,3,home,no educa,skilled,poorest,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+82  18  3,kpk,urban,Young,married,no educa,2,home,primary,skilled,poorest,no,no,yes,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+82  22  3,kpk,urban,Young,married,primary,1,PrivateSector,secondar,services,poorer,no,no,no,no,no,no,yes,no,Hasdocuments,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+82  23  2,kpk,urban,Middle,married,no educa,3,Publicsector,secondar,unskille,middle,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+82  24  8,kpk,urban,Young,married,primary,0,home,no educa,agricult,poorer,no,no,no,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+82  25  1,kpk,urban,Young,married,secondar,3,Publicsector,higher,professi,richer,no,no,yes,yes,no,yes,yes,yes,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+83   1  2,kpk,rural,Middle,married,no educa,2,home,no educa,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83   3  1,kpk,rural,Middle,married,primary,3,home,higher,skilled,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83   4  3,kpk,rural,Young,married,no educa,1,PrivateSector,higher,skilled,richer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+83   5  6,kpk,rural,Young,married,no educa,3,PrivateSector,secondar,agricult,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83   6  2,kpk,rural,Young,married,no educa,6,Publicsector,higher,sales,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+83   6  9,kpk,rural,Young,married,no educa,6,Publicsector,secondar,professi,middle,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83   8  3,kpk,rural,Middle,married,no educa,4,home,no educa,skilled,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83   8  7,kpk,rural,Middle,married,no educa,4,home,no educa,skilled,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83   8 15,kpk,rural,Young,married,no educa,4,home,no educa,did not,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83   8 18,kpk,rural,Young,married,no educa,4,home,no educa,unskille,poorest,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  10  4,kpk,rural,Middle,married,primary,3,home,no educa,unskille,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  11  2,kpk,rural,Middle,married,no educa,6,home,primary,skilled,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  11  9,kpk,rural,Young,married,no educa,6,Publicsector,secondar,unskille,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  11 13,kpk,rural,Middle,married,no educa,6,Publicsector,primary,skilled,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  12  6,kpk,rural,Young,married,no educa,1,home,no educa,skilled,middle,no,no,no,no,no,no,yes,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  13  2,kpk,rural,Middle,married,no educa,2,PrivateSector,no educa,services,poorer,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  14  2,kpk,rural,Old,married,no educa,1,home,no educa,did not,middle,no,no,no,no,no,no,no,no,Hasdocuments,yes,no,no,no,no,no,yes,no,no,n0,no,no,no
+83  15  9,kpk,rural,Young,married,no educa,2,home,no educa,unskille,poorer,no,yes,yes,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  17  2,kpk,rural,Middle,married,no educa,4,home,primary,sales,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+83  17  7,kpk,rural,Young,married,no educa,4,home,secondar,sales,poorer,no,no,no,no,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+83  20  2,kpk,rural,Young,married,no educa,2,home,no educa,services,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  21  2,kpk,rural,Middle,married,no educa,3,home,no educa,sales,poorer,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  24  6,kpk,rural,Middle,married,no educa,9,Publicsector,secondar,skilled,richer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  24 12,kpk,rural,Young,married,no educa,9,home,primary,professi,richer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  24 18,kpk,rural,Young,married,no educa,9,home,primary,skilled,richer,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  24 22,kpk,rural,Young,married,secondar,9,PrivateSector,secondar,sales,richer,yes,no,no,no,no,no,yes,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  25  2,kpk,rural,Middle,married,no educa,2,home,no educa,skilled,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  26  4,kpk,rural,Young,married,no educa,1,PrivateSector,secondar,sales,middle,no,no,no,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  27  4,kpk,rural,Middle,married,higher,3,PrivateSector,higher,did not,middle,yes,no,yes,yes,no,yes,no,yes,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
+83  27  8,kpk,rural,Young,married,higher,3,Publicsector,higher,professi,middle,yes,no,yes,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+83  28  1,kpk,rural,Middle,widowed,no educa,3,Publicsector,secondar,unskille,poorest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+84   4  2,kpk,urban,Middle,married,higher,5,home,higher,agricult,richest,no,no,no,no,no,no,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+84   4 10,kpk,urban,Old,married,higher,5,PrivateSector,secondar,skilled,richest,no,no,no,yes,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+84   5  6,kpk,urban,Young,married,secondar,4,PrivateSector,higher,unskille,richest,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,no,no,yes,no,yes,yes,no,n0,yes,no,no
+84  12  2,kpk,urban,Young,married,no educa,2,PrivateSector,higher,skilled,richest,no,no,no,no,yes,yes,no,no,Hasdocuments,yes,yes,yes,no,no,no,yes,yes,yes,n0,yes,yes,no
+84  17  2,kpk,urban,Young,married,no educa,2,home,secondar,skilled,richer,no,no,yes,no,no,yes,no,no,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+84  21  7,kpk,urban,Middle,married,higher,3,PrivateSector,higher,professi,richest,no,no,no,yes,no,no,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+84  22  2,kpk,urban,Middle,married,secondar,1,home,secondar,sales,richer,no,no,no,no,no,no,no,yes,Nodocuments,no,no,no,no,no,no,no,no,no,n0,no,no,no
+84  23  3,kpk,urban,Young,married,no educa,1,home,secondar,skilled,richer,no,no,yes,yes,no,yes,no,no,Hasdocuments,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+84  27  4,kpk,urban,Old,married,secondar,2,home,secondar,skilled,richer,no,no,yes,yes,no,no,no,no,Hasdocuments,yes,yes,no,no,no,no,yes,yes,no,n0,yes,no,no
